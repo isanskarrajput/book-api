@@ -1,0 +1,13 @@
+{
+  "name": "book-api",
+  "version": "1.0.0",
+  "description": "Simple REST API to manage books",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
